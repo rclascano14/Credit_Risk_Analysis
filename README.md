@@ -12,8 +12,6 @@ Due to such an influx of data regarding loans and other personal finances, there
 
 My results consist and can be observed through the following 4 Deliverables:
 
-I will do so through the following 4 Deliverables:
-
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
 
 #### RandomOverSampler Model
